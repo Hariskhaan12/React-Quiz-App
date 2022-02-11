@@ -1,0 +1,17 @@
+.ViewScore{
+    background-color: blueviolet;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    padding: 40px;
+    width: 30%;
+    height: 230px;
+    margin: auto;
+
+}
+.score{
+    color: blanchedalmond;
+}
+.playAgain{
+    background-color: transparent;
+    font-weight: bold;
+}

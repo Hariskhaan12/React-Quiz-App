@@ -1,0 +1,62 @@
+.before{
+    /* display: flex; */
+    margin: 20px;
+    width:  31%;
+    background-color: bisque ;
+    font-weight: bold;
+    border-radius: 5px;
+     /* top: 30%; */
+    /* left: 32%; */
+    
+}
+
+#next{
+    border-radius: 10px;
+    background-color:lightgreen;
+    font-weight: bolder;
+    width: 100px;
+
+}
+
+.Answer_section{
+    margin-top: 3%;
+    
+}
+.Question_section{
+    margin-top: 5%;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: sans-serif;
+}
+.submit{
+    margin-top:2% ;
+    margin-left:55% ;
+   
+    
+}
+.submit>button{
+    width: 10% auto;
+    margin-left: 20px;
+}
+.after{
+    margin: 20px;
+    width:  32%;
+    background-color: green;
+}
+.wrong{
+     margin: 20px;
+    width:  31%;
+    background-color: #8E2617 ;
+}
+.MainBox{
+    border: 1px solid transparent;
+    border-radius: 20px;
+    /* background-color: tan; */
+    
+background: rgb(194,80,57);
+background: linear-gradient(90deg, rgba(194,80,57,1) 39%, rgba(0,121,255,1) 100%);
+
+    width: 45%;
+    margin: auto;
+    padding-bottom: 80px;
+}
